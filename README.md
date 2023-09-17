@@ -10,6 +10,7 @@ This is <red><b>bold red</b></red>.
 This is a picture: 
 [https://github.com/hulab-emory/CRCwebAssets/assets/80400820/62748693-5919-4671-a9af-e5fcb2ca685a]
 This is another line.
+This is a [link](https://www.google.com)
 ````
 
-![Screenshot 2023-09-07 at 4 12 44 PM](https://github.com/hulab-emory/CRCwebAssets/assets/80400820/c322abad-e246-4709-b680-4dfcc05cf999)
+<img width="375" alt="Screenshot 2023-09-17 at 6 00 28 PM" src="https://github.com/hulab-emory/CRCwebAssets/assets/80400820/06a85466-0b85-45e0-9a0a-6e01e2aeb246">
